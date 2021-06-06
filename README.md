@@ -8,7 +8,7 @@ Booster is the first and only blockchain-agnostic protocol to reward booster clu
 - Create NFTs for player specific fundraising
 - Team Memeber Player speicifc Scholarships
 
-## Supporting Governence tokens to be supported
+## Governence tokens to be supported
 -$XRP
 -$FLR
 -$DOGE
