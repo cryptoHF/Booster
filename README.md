@@ -9,7 +9,7 @@ Booster is the first and only blockchain-agnostic protocol to reward booster clu
 - Team Memeber Player speicifc Scholarships
 
 ## Governence tokens to be supported
--$XRP
--$FLR
--$DOGE
--$GALA
+- $XRP
+- $FLR
+- $DOGE
+- $GALA
